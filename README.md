@@ -89,7 +89,6 @@ To identify and profile 1000 new potential customers most aligned with historica
 ## 📌 Author
 
 **Himanshu Kumar**  
-📍 Koderma, Jharkhand, India  
 📧 ds.himanshu.kumar@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/himanshukumar3231) | [GitHub](https://github.com/himanshu3231)
 
